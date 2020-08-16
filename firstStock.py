@@ -17,3 +17,4 @@ def draw(df):
     plt.ylabel('Rise and Fall')
     plt.show()
     sns.kdeplot(daily_return)
+
